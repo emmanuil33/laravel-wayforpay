@@ -1,11 +1,11 @@
 {
-    "name": "maksa988/laravel-wayforpay",
+    "name": "emmanuil33/laravel-wayforpay",
     "description": "WayForPay payments for Laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "maksa988",
-            "email": "maksa988ua@gmail.com"
+            "name": "emmanuil33",
+            "email": "evgenij.emm@gmail.com"
         }
     ],
     "require": {
